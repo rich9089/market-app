@@ -1,0 +1,6 @@
+dependencies: \
+  /Users/richardjackson/GitHub/market-app/MarketApp/node_modules/react-native/React/Base/RCTFrameUpdate.m \
+  /Users/richardjackson/GitHub/market-app/MarketApp/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/richardjackson/GitHub/market-app/MarketApp/node_modules/react-native/React/Base/RCTUtils.h \
+  /Users/richardjackson/GitHub/market-app/MarketApp/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/richardjackson/GitHub/market-app/MarketApp/node_modules/react-native/React/Base/RCTDefines.h

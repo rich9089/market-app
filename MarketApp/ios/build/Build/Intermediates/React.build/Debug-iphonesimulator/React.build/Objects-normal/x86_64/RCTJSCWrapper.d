@@ -1,0 +1,6 @@
+dependencies: \
+  /Users/richardjackson/GitHub/market-app/MarketApp/node_modules/react-native/React/Executors/RCTJSCWrapper.mm \
+  /Users/richardjackson/GitHub/market-app/MarketApp/node_modules/react-native/React/Executors/RCTJSCWrapper.h \
+  /Users/richardjackson/GitHub/market-app/MarketApp/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/richardjackson/GitHub/market-app/MarketApp/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/richardjackson/GitHub/market-app/MarketApp/node_modules/react-native/React/Base/RCTAssert.h
